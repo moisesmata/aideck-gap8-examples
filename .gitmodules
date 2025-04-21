@@ -1,0 +1,3 @@
+[submodule "esp_color_object"]
+	path = esp_color_object
+	url = git@github.com:A2R-Lab/esp_color_object.git
